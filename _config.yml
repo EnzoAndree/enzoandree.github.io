@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Enzo Andree Guerrero-Araya
+name: Enzo Guerrero-Araya
 title: Computational Biologist
 email: biologoenzo@gmail.com
 website: www.github.com/EnzoAndree
@@ -32,9 +32,9 @@ googlescholar_username: H6e-nbYAAAAJ
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: enzoandree.cl
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://www.enzoandree.cl
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -49,10 +49,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile_ega.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  Hi, my name's Enzo and I'm a Computational Biologist finishing my PhD at the Andrés Bello University in Chile. I study the genomic epidemiology, evolution, adaptation and phylogenetic relationship of Clostridioides difficile. As well as research experience I also have experience making software
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
