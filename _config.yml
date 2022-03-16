@@ -52,7 +52,7 @@ google_analytics: "G-0FSBH746T9"
 # about_title: About Me
 about_profile_image: images/profile_ega.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Enzo and I'm a Computational Biologist finishing my PhD at the Andrés Bello University in Chile. I study the genomic epidemiology, evolution, adaptation and phylogenetic relationship of _Clostridioides difficile_. As well as research experience I also have experience software development and data scientist.
+  Hi, my name's Enzo and I'm a Computational Biologist finishing my Ph.D. at the Andrés Bello University in Chile. I study the genomic epidemiology, evolution, adaptation and phylogenetic relationship of _Clostridioides difficile_. As well as research experience I also have experience software development and data scientist.
 content:
   - title: Softwares # Title for the section
     layout: list # Type of content section (list/text)
