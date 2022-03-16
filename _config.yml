@@ -33,7 +33,7 @@ googlescholar_username: H6e-nbYAAAAJ
 # Additional icon links
 additional_links:
 - title: enzoandree.cl
-  icon: fas fa-globe
+  icon: fas fa-file-alt
   url: http://enzoandree.cl
 - title: CV
   icon: fa-thin fa-file-lines
