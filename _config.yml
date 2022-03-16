@@ -33,10 +33,10 @@ googlescholar_username: H6e-nbYAAAAJ
 # Additional icon links
 additional_links:
 - title: enzoandree.cl
-  icon: fas fa-file-alt
+  icon: ffas fa-globe
   url: http://enzoandree.cl
 - title: CV
-  icon: fa-thin fa-file-lines
+  icon: as fa-file-alt
   url: https://docs.google.com/document/d/16SuuSoo5u--yfBygpzD4cSzvfNxcXk5zE1WlV8whmJE
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -75,7 +75,7 @@ content:
         title: Fundación Ciencia & Vida
         # link_text: boringcompany.com
         sub_title: Data Scientist
-        caption: February 2020 to present
+        caption: February 2021 to present
         description: | # this will include new lines to allow paragraphs
             I was a data scientist. The responsibilities were performing data preparation,  data mining, data visualization, and data analysis in COVID-19 pandemic-related data.
       - layout: left
