@@ -100,7 +100,7 @@ content:
   - title: Publications - Published # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
-        **Guerrero-Araya, Enzo\***, Angela Plaza-Garrido, Fernando Díaz-Yañez, Marjorie Pizaro-Guajardo, Sandro L. Valenzuela, Claudio Meneses, Fernando Gil, Eduardo Castro-Nallar, en **Daniel Paredes-Sabja\***. “Genome sequence of Clostridium paraputrificum 373-A1 isolated in Chile from a patient infected with Clostridium difficile”. Genome Announcements 4, no 6 (2016): e01178-16.
+        **Guerrero-Araya, Enzo\***, Angela Plaza-Garrido, Fernando Díaz-Yañez, Marjorie Pizaro-Guajardo, Sandro L. Valenzuela, Claudio Meneses, Fernando Gil, Eduardo Castro-Nallar, en **Daniel Paredes-Sabja\***. “Genome sequence of Clostridium paraputrificum 373-A1 isolated in Chile from a patient infected with Clostridium difficile”. Genome Announcements 4, no 6 (2016): e01178-16. * co-corresponding authors
 
         Calderon-Romero, Paulina, Pablo Castro-Cordova, Rodrigo Reyes-Ramirez, Mauro Milano-Cespedes, **Enzo Guerrero-Araya**, Marjorie Pizarro-Guajardo, Valeria Olguin-Araneda, Fernando Gil, en Daniel Paredes-Sabja. “Clostridium difficile exosporium cysteine-rich proteins are essential for the morphogenesis of the exosporium layer, spore resistance, and affect C. difficile pathogenesis”. PLoS pathogens 14, no 8 (2018): e1007199.
 
@@ -115,19 +115,6 @@ content:
         Knight, Daniel R., Korakrit Imwattana, Brian Kullin, **Enzo Guerrero-Araya**, Daniel Paredes-Sabja, Xavier Didelot, Kate E. Dingle, David W. Eyre, César Rodríguez, en Thomas V. Riley. “Major genetic discontinuity and novel toxigenic species in Clostridioides difficile taxonomy”. Elife 10 (2021).
 
         Castañeda, Sergio, Luz H. Patiño, Marina Muñoz, Nathalia Ballesteros, **Enzo Guerrero-Araya**, Daniel Paredes-Sabja, Carolina Flórez, et al. “Evolution and epidemic spread of SARS-CoV-2 in Colombia: A year into the pandemic”. Vaccines 9, no 8 (2021): 837.
-
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
