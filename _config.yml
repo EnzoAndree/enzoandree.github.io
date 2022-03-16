@@ -35,6 +35,9 @@ additional_links:
 - title: enzoandree.cl
   icon: fas fa-globe
   url: http://enzoandree.cl
+- title: CV
+  icon: fa-thin fa-file-lines
+  url: https://docs.google.com/document/d/16SuuSoo5u--yfBygpzD4cSzvfNxcXk5zE1WlV8whmJE
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
