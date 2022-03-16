@@ -93,13 +93,13 @@ content:
         caption: 2018 to present
         sub_title: Doctor of Philosophy
         description: | # this will include new lines to allow paragraphs
-          Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.
+          During my Ph.D. project I studied the evolution and genomic epidemiology of Clostridioides difficile in Latin America. Several international collaborations were carried out in research related to evolution, bioinformatics, and data analysis that led to scientific publications.
       - layout: left
         title: Andrés Bello University
         caption: 2012 to 2016
         sub_title: Bachelor of Biotechnology
         description: | # this will include new lines to allow paragraphs
-          Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.
+          During my undergraduate degree I received training in microbiology, genetics and I was further specialized in the area of bacterial genome assembly, genomic data analysis, and bioinformatics in general.
   - title: Publications - Published # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
