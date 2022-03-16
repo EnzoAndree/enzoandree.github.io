@@ -101,7 +101,7 @@ content:
     layout: text # Type of content section (list/text)
     content:
       - layout: left
-        title: FastMLST: A multi-core tool for multilocus sequence typing of draft genome assemblies
+        title: "FastMLST: A multi-core tool for multilocus sequence typing of draft genome assemblies"
         caption: 2021
         sub_title: Bachelor of Biotechnology
         description: | # this will include new lines to allow paragraphs
