@@ -32,9 +32,9 @@ googlescholar_username: H6e-nbYAAAAJ
 
 # Additional icon links
 additional_links:
-- title: enzoandree.cl
-  icon: fas fa-globe
-  url: http://enzoandree.cl
+# - title: enzoandree.cl
+#   icon: fas fa-globe
+#   url: http://enzoandree.cl
 - title: CV
   icon: fa-thin fa-file-lines
   url: https://docs.google.com/document/d/16SuuSoo5u--yfBygpzD4cSzvfNxcXk5zE1WlV8whmJE
