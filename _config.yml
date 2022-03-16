@@ -69,49 +69,61 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Andrés Bello University
-        # link_text: boringcompany.com
-        sub_title: Professor
-        caption: March 2017 to July 2017
-        description: | # this will include new lines to allow paragraphs
-            I was a professor of the Laboratory of Genetic Engineering in Microorganisms (BIT200).
-      - layout: left
         title: Fundación Ciencia & Vida
         # link_text: boringcompany.com
         sub_title: Data Scientist
         caption: February 2020 to present
         description: | # this will include new lines to allow paragraphs
             I was a data scientist. The responsibilities were performing data preparation,  data mining, data visualization, and data analysis in COVID-19 pandemic-related data.
+      - layout: left
+        title: Andrés Bello University
+        # link_text: boringcompany.com
+        sub_title: Professor
+        caption: March 2017 to July 2017
+        description: | # this will include new lines to allow paragraphs
+            I was a professor of the Laboratory of Genetic Engineering in Microorganisms (BIT200).
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Andrés Bello University
+        caption: 2018 to present
+        sub_title: Doctor of Philosophy
+        description: | # this will include new lines to allow paragraphs
+          Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.
       - layout: left
         title: Andrés Bello University
         caption: 2012 to 2016
         sub_title: Bachelor of Biotechnology
         description: | # this will include new lines to allow paragraphs
           Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.
-      - layout: left
-        title: Andrés Bello University
-        caption: 2018 to present
-        sub_title: Doctor of Philosophy
-        description: | # this will include new lines to allow paragraphs
-          Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.
   - title: Publications - Published # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: "FastMLST: A multi-core tool for multilocus sequence typing of draft genome assemblies"
-        caption: 2021
-        sub_title: Bachelor of Biotechnology
-        description: | # this will include new lines to allow paragraphs
-          Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.
-      - layout: left
-        title: Andrés Bello University
-        caption: 2018 to present
-        sub_title: Doctor of Philosophy
-        description: | # this will include new lines to allow paragraphs
-          Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+        FastMLST: A multi-core tool for multilocus sequence typing of draft genome assemblies
+        Enzo Guerrero-Araya*, Marina Muñoz, César Rodríguez, Daniel Paredes-Sabja*. Bioinformatics and biology insights - 2021. * co-corresponding authors
+        I performed the design, software development, testing, implementation of FastMLST, and drafted the manuscript.
+        Evolution and epidemic spread of SARS-CoV-2 in Colombia: A year into the pandemic
+        Sergio Castañeda, Luz H Patiño, Marina Muñoz, Nathalia Ballesteros, Enzo Guerrero-Araya, Daniel Paredes-Sabja, Carolina Flórez, Sergio Gomez, Carolina Ramírez-Santana, Gustavo Salguero, Juan E Gallo, Alberto E Paniz-Mondolfi, Juan David Ramírez. Vaccines - 2021.
+        I performed the calculation of the effective reproductive number (Re) of SARS-CoV-2 over time in Colombia,  and assisted in writing the manuscript and interpreting the results.
+        Major genetic discontinuity and novel toxigenic species in Clostridioides difficile taxonomy
+        Daniel R Knight, Korakrit Imwattana, Brian Kullin, Enzo Guerrero-Araya, Daniel Paredes-Sabja, Xavier Didelot, Kate E Dingle, David W Eyre, César Rodríguez, Thomas V Riley. Elife - 2021.
+        I performed the Bayesian evolutionary analysis of the isolates, the molecular dating, to search for the presence of C. difficile toxins in the genomes together with analysis of their genomic context, and assisted in writing the manuscript and interpreting the results.
+        Comprehensive genome analyses of Sellimonas intestinalis, a potential biomarker of homeostasis gut recovery
+        Marina Muñoz, Enzo Guerrero-Araya, Catalina Cortés-Tapia, Angela Plaza-Garrido, Trevor D Lawley, Daniel Paredes-Sabja. Microbial genomics - 2020.
+        I performed the Bayesian evolutionary analysis of the isolates, annotation of the proteins using Clusters of Orthologous Groups, and assisted in writing the manuscript and interpreting the results.
+        The Clostridioides difficile Cysteine-Rich Exosporium Morphogenetic Protein, CdeC, Exhibits Self-Assembly Properties That Lead to Organized Inclusion Bodies in Escherichia coli
+        Alba Romero-Rodríguez, Scarlett Troncoso-Cotal, Enzo Guerrero-Araya, Daniel Paredes-Sabja. Msphere - 2020.
+        I performed the evolutionary analysis of CdeC as well all bioinformatics methods, designed their figures, assisted in writing the manuscript and interpreting the results.
+        Origin, genomic diversity and microevolution of the Clostridium difficile B1/NAP1/RT027/ST01 strain in Costa Rica, Chile, Honduras and Mexico
+        Enzo Guerrero-Araya, Claudio Meneses, Eduardo Castro-Nallar, Ana M. Guzmán D., Manuel Álvarez-Lobos, Carlos Quesada-Gómez, Daniel Paredes-Sabja, César Rodríguez. Microbial genomics - 2020.
+        I performed the assembly, annotation, and evolutionary analysis of isolates as well as all bioinformatics methods, prepared figures  and tables, and drafted the manuscript.
+        Clostridium difficile exosporium cysteine-rich proteins are essential for the morphogenesis of the exosporium layer, spore resistance, and affect C. difficile pathogenesis
+        Paulina Calderon-Romero, Pablo Castro-Cordova, Rodrigo Reyes-Ramirez, Mauro Milano-Cespedes, Enzo Guerrero-Araya, Marjorie Pizarro-Guajardo, Valeria Olguin-Araneda, Fernando Gil, Daniel Paredes-Sabja. PLoS pathogens - 2018.
+        I performed the evolutionary analysis of cysteine-rich proteins as well all bioinformatics methods, designed their figures, assisted in writing the manuscript and interpreting the results.
+        Genome sequence of Clostridium paraputrificum 373-A1 isolated in Chile from a patient infected with Clostridium difficile
+        Enzo Guerrero-Araya, Angela Plaza-Garrido, Fernando Díaz-Yañez, Marjorie Pizaro-Guajardo, Sandro L Valenzuela, Claudio Meneses, Fernando Gil, Eduardo Castro-Nallar, Daniel Paredes-Sabja. Genome Announcements - 2016.
+        I performed the assembly, identification, and annotation of the bacterial isolate, prepared figures and tables, and drafted the manuscript.
 
   - title: A Little More About Me
     layout: text
