@@ -72,14 +72,14 @@ content:
         title: Andrés Bello University
         # link_text: boringcompany.com
         sub_title: Professor
-        caption: MARCH 2017 to JULY 2017
+        caption: March 2017 to July 2017
         description: | # this will include new lines to allow paragraphs
             I was a professor of the Laboratory of Genetic Engineering in Microorganisms (BIT200).
       - layout: left
         title: Fundación Ciencia & Vida
         # link_text: boringcompany.com
         sub_title: Data Scientist
-        caption: FEBRUARY  2020 to present
+        caption: February 2020 to present
         description: | # this will include new lines to allow paragraphs
             I was a data scientist. The responsibilities were performing data preparation,  data mining, data visualization, and data analysis in COVID-19 pandemic-related data.
   - title: Education # Title for the section
@@ -98,7 +98,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.
   - title: Publications - Published # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: "FastMLST: A multi-core tool for multilocus sequence typing of draft genome assemblies"
