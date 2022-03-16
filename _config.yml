@@ -100,7 +100,7 @@ content:
   - title: Publications - Published # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
-        **Guerrero-Araya, Enzo\***, Marina Muñoz, César Rodríguez, and Daniel Paredes-Sabja*. “FastMLST: A multi-core tool for multilocus sequence typing of draft genome assemblies”. Bioinformatics and biology insights 15 (2021): 11779322211059238.
+        **Guerrero-Araya, Enzo\***, Marina Muñoz, César Rodríguez, and Daniel Paredes-Sabja*. “FastMLST: A multi-core tool for multilocus sequence typing of draft genome assemblies”. Bioinformatics and biology insights 15 (2021): 11779322211059238. \** co-corresponding authors*
 
         Castañeda, Sergio, Luz H. Patiño, Marina Muñoz, Nathalia Ballesteros, **Enzo Guerrero-Araya**, Daniel Paredes-Sabja, Carolina Flórez, et al. “Evolution and epidemic spread of SARS-CoV-2 in Colombia: A year into the pandemic”. Vaccines 9, no 8 (2021): 837.
 
