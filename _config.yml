@@ -100,54 +100,22 @@ content:
   - title: Publications - Published # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
-        FastMLST: A multi-core tool for multilocus sequence typing of draft genome assemblies
-        
-        Enzo Guerrero-Araya*, Marina Muñoz, César Rodríguez, Daniel Paredes-Sabja*. Bioinformatics and biology insights - 2021. * co-corresponding authors
-        
-        I performed the design, software development, testing, implementation of FastMLST, and drafted the manuscript.
-        
-        Evolution and epidemic spread of SARS-CoV-2 in Colombia: A year into the pandemic
-        
-        Sergio Castañeda, Luz H Patiño, Marina Muñoz, Nathalia Ballesteros, Enzo Guerrero-Araya, Daniel Paredes-Sabja, Carolina Flórez, Sergio Gomez, Carolina Ramírez-Santana, Gustavo Salguero, Juan E Gallo, Alberto E Paniz-Mondolfi, Juan David Ramírez. Vaccines - 2021.
-        
-        I performed the calculation of the effective reproductive number (Re) of SARS-CoV-2 over time in Colombia,  and assisted in writing the manuscript and interpreting the results.
-        
-        Major genetic discontinuity and novel toxigenic species in Clostridioides difficile taxonomy
-        
-        Daniel R Knight, Korakrit Imwattana, Brian Kullin, Enzo Guerrero-Araya, Daniel Paredes-Sabja, Xavier Didelot, Kate E Dingle, David W Eyre, César Rodríguez, Thomas V Riley. Elife - 2021.
-        
-        I performed the Bayesian evolutionary analysis of the isolates, the molecular dating, to search for the presence of C. difficile toxins in the genomes together with analysis of their genomic context, and assisted in writing the manuscript and interpreting the results.
-        
-        Comprehensive genome analyses of Sellimonas intestinalis, a potential biomarker of homeostasis gut recovery
-        
-        Marina Muñoz, Enzo Guerrero-Araya, Catalina Cortés-Tapia, Angela Plaza-Garrido, Trevor D Lawley, Daniel Paredes-Sabja. Microbial genomics - 2020.
-        
-        I performed the Bayesian evolutionary analysis of the isolates, annotation of the proteins using Clusters of Orthologous Groups, and assisted in writing the manuscript and interpreting the results.
-        
-        The Clostridioides difficile Cysteine-Rich Exosporium Morphogenetic Protein, CdeC, Exhibits Self-Assembly Properties That Lead to Organized Inclusion Bodies in Escherichia coli
-        
-        Alba Romero-Rodríguez, Scarlett Troncoso-Cotal, Enzo Guerrero-Araya, Daniel Paredes-Sabja. Msphere - 2020.
-        
-        I performed the evolutionary analysis of CdeC as well all bioinformatics methods, designed their figures, assisted in writing the manuscript and interpreting the results.
-        
-        Origin, genomic diversity and microevolution of the Clostridium difficile B1/NAP1/RT027/ST01 strain in Costa Rica, Chile, Honduras and Mexico
-        
-        Enzo Guerrero-Araya, Claudio Meneses, Eduardo Castro-Nallar, Ana M. Guzmán D., Manuel Álvarez-Lobos, Carlos Quesada-Gómez, Daniel Paredes-Sabja, César Rodríguez. Microbial genomics - 2020.
-        
-        I performed the assembly, annotation, and evolutionary analysis of isolates as well as all bioinformatics methods, prepared figures  and tables, and drafted the manuscript.
-        
-        Clostridium difficile exosporium cysteine-rich proteins are essential for the morphogenesis of the exosporium layer, spore resistance, and affect C. difficile pathogenesis
-        
-        Paulina Calderon-Romero, Pablo Castro-Cordova, Rodrigo Reyes-Ramirez, Mauro Milano-Cespedes, Enzo Guerrero-Araya, Marjorie Pizarro-Guajardo, Valeria Olguin-Araneda, Fernando Gil, Daniel Paredes-Sabja. PLoS pathogens - 2018.
-        
-        I performed the evolutionary analysis of cysteine-rich proteins as well all bioinformatics methods, designed their figures, assisted in writing the manuscript and interpreting the results.
-        
-        Genome sequence of Clostridium paraputrificum 373-A1 isolated in Chile from a patient infected with Clostridium difficile
-        
-        Enzo Guerrero-Araya, Angela Plaza-Garrido, Fernando Díaz-Yañez, Marjorie Pizaro-Guajardo, Sandro L Valenzuela, Claudio Meneses, Fernando Gil, Eduardo Castro-Nallar, Daniel Paredes-Sabja. Genome Announcements - 2016.
-        
-        I performed the assembly, identification, and annotation of the bacterial isolate, prepared figures and tables, and drafted the manuscript.
-        
+  **Guerrero-Araya, Enzo\***, Angela Plaza-Garrido, Fernando Díaz-Yañez, Marjorie Pizaro-Guajardo, Sandro L. Valenzuela, Claudio Meneses, Fernando Gil, Eduardo Castro-Nallar, en **Daniel Paredes-Sabja\***. “Genome sequence of Clostridium paraputrificum 373-A1 isolated in Chile from a patient infected with Clostridium difficile”. Genome Announcements 4, no 6 (2016): e01178-16.
+
+  Calderon-Romero, Paulina, Pablo Castro-Cordova, Rodrigo Reyes-Ramirez, Mauro Milano-Cespedes, **Enzo Guerrero-Araya**, Marjorie Pizarro-Guajardo, Valeria Olguin-Araneda, Fernando Gil, en Daniel Paredes-Sabja. “Clostridium difficile exosporium cysteine-rich proteins are essential for the morphogenesis of the exosporium layer, spore resistance, and affect C. difficile pathogenesis”. PLoS pathogens 14, no 8 (2018): e1007199.
+
+  **Guerrero-Araya, Enzo**, Claudio Meneses, Eduardo Castro-Nallar, Ana M. Guzmán D., Manuel Álvarez-Lobos, Carlos Quesada-Gómez, Daniel Paredes-Sabja, en César Rodríguez. “Origin, genomic diversity and microevolution of the Clostridium difficile B1/NAP1/RT027/ST01 strain in Costa Rica, Chile, Honduras and Mexico”. Microbial genomics 6, no 5 (2020).
+
+  Muñoz, Marina, **Enzo Guerrero-Araya**, Catalina Cortés-Tapia, Angela Plaza-Garrido, Trevor D. Lawley, en Daniel Paredes-Sabja. “Comprehensive genome analyses of Sellimonas intestinalis, a potential biomarker of homeostasis gut recovery”. Microbial genomics 6, no 12 (2020).
+
+  **Guerrero-Araya, Enzo**, Marina Muñoz, César Rodríguez, en Daniel Paredes-Sabja. “FastMLST: A multi-core tool for multilocus sequence typing of draft genome assemblies”. Bioinformatics and biology insights 15 (2021): 11779322211059238.
+
+  Romero-Rodríguez, Alba, Scarlett Troncoso-Cotal, **Enzo Guerrero-Araya**, en Daniel Paredes-Sabja. “The Clostridioides difficile Cysteine-Rich Exosporium Morphogenetic Protein, CdeC, Exhibits Self-Assembly Properties That Lead to Organized Inclusion Bodies in Escherichia coli”. Msphere 5, no 6 (2020): e01065-20.
+
+  Knight, Daniel R., Korakrit Imwattana, Brian Kullin, **Enzo Guerrero-Araya**, Daniel Paredes-Sabja, Xavier Didelot, Kate E. Dingle, David W. Eyre, César Rodríguez, en Thomas V. Riley. “Major genetic discontinuity and novel toxigenic species in Clostridioides difficile taxonomy”. Elife 10 (2021).
+
+  Castañeda, Sergio, Luz H. Patiño, Marina Muñoz, Nathalia Ballesteros, **Enzo Guerrero-Araya**, Daniel Paredes-Sabja, Carolina Flórez, et al. “Evolution and epidemic spread of SARS-CoV-2 in Colombia: A year into the pandemic”. Vaccines 9, no 8 (2021): 837.
+
 
   - title: A Little More About Me
     layout: text
