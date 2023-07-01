@@ -52,7 +52,7 @@ google_analytics: "G-0FSBH746T9"
 # about_title: About Me
 about_profile_image: images/profile_ega.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Enzo and I'm a Computational Biologist finishing my Ph.D. at the Andrés Bello University in Chile. I study the genomic epidemiology, evolution, adaptation and phylogenetic relationship of _Clostridioides difficile_. Several international collaborations were carried out in research related to evolution, bioinformatics, and data analysis that led to scientific publications. As well as research experience I also have experience software development and data scientist.
+  Hello, I'm Enzo, a Computational Biologist with a freshly earned Ph.D. from Andrés Bello University in Chile. My core focus is on the genomic epidemiology, evolution, adaptation, and phylogenetic relationship of Clostridioides difficile. I've been privileged to collaborate with international peers on research exploring evolution, bioinformatics, and data analysis, which has led to numerous scientific publications. In addition to my research experience, I also have a strong background in software development and data science.
 content:
   - title: Softwares # Title for the section
     layout: list # Type of content section (list/text)
@@ -75,7 +75,7 @@ content:
         title: Fundación Ciencia & Vida
         # link_text: boringcompany.com
         sub_title: Data Scientist
-        caption: February 2021 to present
+        caption: February 2021 to February 2023
         description: | # this will include new lines to allow paragraphs
             I was a data scientist. The responsibilities were performing data preparation,  data mining, data visualization, and data analysis in COVID-19 pandemic-related data.
       - layout: left
@@ -90,7 +90,7 @@ content:
     content:
       - layout: left
         title: Andrés Bello University
-        caption: 2018 to present
+        caption: 2018 to 2023
         sub_title: Doctor of Philosophy
         description: | # this will include new lines to allow paragraphs
           During my Ph.D. project I studied the evolution and genomic epidemiology of Clostridioides difficile in Latin America. Several international collaborations were carried out in research related to evolution, bioinformatics, and data analysis that led to scientific publications.
