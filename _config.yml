@@ -52,7 +52,7 @@ google_analytics: "G-0FSBH746T9"
 # about_title: About Me
 about_profile_image: images/profile_ega.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Enzo, a Computational Biologist with a freshly earned Ph.D. from Andrés Bello University in Chile. My core focus is on the genomic epidemiology, evolution, adaptation, and phylogenetic relationship of _Clostridioides difficile_. I've been privileged to collaborate with international peers on research exploring evolution, bioinformatics, and data analysis, which has led to numerous scientific publications. In addition to my research experience, I also have a strong background in software development and data science.
+  Hello, I'm Enzo, a Computational Biologist with a freshly earned Ph.D. from Andrés Bello University in Chile. My core focus is on the genomic epidemiology, evolution, adaptation, and phylogenetic relationship of *Clostridioides difficile*. I've been privileged to collaborate with international peers on research exploring evolution, bioinformatics, and data analysis, which has led to numerous scientific publications. In addition to my research experience, I also have a strong background in software development and data science.
 content:
   - title: Softwares # Title for the section
     layout: list # Type of content section (list/text)
@@ -93,7 +93,7 @@ content:
         caption: 2018 to 2023
         sub_title: Doctor of Philosophy
         description: | # this will include new lines to allow paragraphs
-          During my Ph.D. project I studied the evolution and genomic epidemiology of Clostridioides difficile in Latin America. Several international collaborations were carried out in research related to evolution, bioinformatics, and data analysis that led to scientific publications.
+          During my Ph.D. project I studied the evolution and genomic epidemiology of *Clostridioides difficile* in Latin America. Several international collaborations were carried out in research related to evolution, bioinformatics, and data analysis that led to scientific publications.
       - layout: left
         title: Andrés Bello University
         caption: 2012 to 2016
@@ -103,7 +103,7 @@ content:
   - title: Publications - Published # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
-        Anny Camargo, **Enzo Guerrero-Araya**, Sergio Castañeda, Laura Vega, María X Cardenas-Alvarez, César Rodríguez, Daniel Paredes-Sabja, Juan David Ramírez, and Marina Muñoz. “Intra-species diversity of Clostridium perfringens: A diverse genetic repertoire reveals its pathogenic potential”. Frontiers in Microbiology (2022).
+        Anny Camargo, **Enzo Guerrero-Araya**, Sergio Castañeda, Laura Vega, María X Cardenas-Alvarez, César Rodríguez, Daniel Paredes-Sabja, Juan David Ramírez, and Marina Muñoz. “Intra-species diversity of *Clostridium perfringens*: A diverse genetic repertoire reveals its pathogenic potential”. Frontiers in Microbiology (2022).
 
         Luz H Patiño, Sergio Castañeda, Marina Muñoz, Nathalia Ballesteros, Angie L Ramirez, Nicolas Luna, **Enzo Guerrero-Araya**, Julie Pérez, Camilo A Correa-Cárdenas, Maria Clara Duque, Claudia Méndez, Carolina Oliveros, Maryia V Shaban, Alberto E Paniz-Mondolfi, and Juan David Ramírez. “Epidemiological Dynamics of SARS-CoV-2 Variants During Social Protests in Cali, Colombia”. Frontiers in Medicine 9 (2022).
         
