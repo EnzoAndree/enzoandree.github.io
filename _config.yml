@@ -103,6 +103,8 @@ content:
   - title: Publications - Published # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
+        **Enzo Guerrero-Araya**, Cesar Ravello, Mario Rosemblatt, Tomas Perez-Acle. “Socioeconomic status correlates with COVID-19 vaccination coverage among primary and secondary students in the most populated city of Chile”. Scientific Reports (2025).
+
         Anny Camargo, **Enzo Guerrero-Araya**, Sergio Castañeda, Laura Vega, María X Cardenas-Alvarez, César Rodríguez, Daniel Paredes-Sabja, Juan David Ramírez, and Marina Muñoz. “Intra-species diversity of *Clostridium perfringens*: A diverse genetic repertoire reveals its pathogenic potential”. Frontiers in Microbiology (2022).
 
         Luz H Patiño, Sergio Castañeda, Marina Muñoz, Nathalia Ballesteros, Angie L Ramirez, Nicolas Luna, **Enzo Guerrero-Araya**, Julie Pérez, Camilo A Correa-Cárdenas, Maria Clara Duque, Claudia Méndez, Carolina Oliveros, Maryia V Shaban, Alberto E Paniz-Mondolfi, and Juan David Ramírez. “Epidemiological Dynamics of SARS-CoV-2 Variants During Social Protests in Cali, Colombia”. Frontiers in Medicine 9 (2022).
