@@ -41,7 +41,7 @@ additional_links:
   url: https://scholar.enzoandree.cl
 - title: CV
   icon: fas fa-file-alt
-  url: /latex_cv/Enzo_Guerrero-Araya_CV.pdf
+  url: https://enzoandree.cl/latex_cv/Enzo_Guerrero-Araya_CV.pdf
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -151,3 +151,4 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+ - jekyll-redirect-from
