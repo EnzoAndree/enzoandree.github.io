@@ -1,0 +1,97 @@
+%%%%%%%%%%%%%%%
+% This CV example/template is based on my own
+% CV which I (lamely attempted) to clean up, so that
+% it's less of an eyesore and easier for others to use.
+%
+% LianTze Lim (liantze@gmail.com)
+% 23 Oct, 2022
+% 24 Aug, 2024 -- Updated X (Twitter) icon
+\documentclass[a4paper,skipsamekey,10pt,english]{curve}
+
+% Uncomment to enable Chinese; needs XeLaTeX
+% \usepackage{ctex}
+
+% Publication list configuration.
+\PassOptionsToPackage{backend=bibtex,style=ieee,sorting=ydnt,uniquename=init,defernumbers=true,maxbibnames=99,minbibnames=99,maxcitenames=99,mincitenames=99}{biblatex}
+
+% Most commands and style definitions are in settings.sty.
+\usepackage{settings}
+
+\DefineBibliographyStrings{english}{url={\textsc{url}}}
+\addbibresource{own-bib.bib}
+
+\mynames{Guerrero-Araya/Enzo,
+  Guerrero/Enzo}
+
+% Change the fonts if you want
+\ifxetexorluatex % If you're using XeLaTeX or LuaLaTeX
+  \usepackage{fontspec} 
+  %% You can use \setmainfont etc; I'm just using these font packages here because they provide OpenType fonts for use by XeLaTeX/LuaLaTeX anyway
+  \usepackage[p,osf,swashQ]{cochineal}
+  \usepackage[medium,bold]{cabin}
+  \usepackage[varqu,varl,scale=0.9]{zi4}
+\else % If you're using pdfLaTeX or latex
+  \usepackage[T1]{fontenc}
+  \usepackage[p,osf,swashQ]{cochineal}
+  \usepackage{cabin}
+  \usepackage[varqu,varl,scale=0.9]{zi4}
+\fi
+
+% Change the page margins if you want
+\geometry{left=1.45cm,right=1.45cm,top=1.25cm,bottom=1.35cm}
+
+% Change the colours if you want
+\definecolor{SwishLineColour}{HTML}{2D6A4F}
+\definecolor{MarkerColour}{HTML}{1B4332}
+
+% Change the item prefix marker if you want
+% \prefixmarker{$\diamond$}
+
+%% Photo is only shown if "fullonly" is included
+\includecomment{fullonly}
+% \excludecomment{fullonly}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\leftheader{%
+  {\LARGE\bfseries\sffamily Enzo Guerrero-Araya, Ph.D.}
+
+  {\large Phylodynamics -- Epidemiology -- Computational Biology -- Data Science\par}
+
+  \makefield{\faEnvelope[regular]}{\href{mailto:enzoguerreroaraya@gmail.com}{\texttt{enzoguerreroaraya@gmail.com}}}
+  \makefield{\faGlobe}{\href{https://enzoandree.cl}{\texttt{enzoandree.cl}}}
+  \makefield{\simpleicon{x}}{\href{https://x.com/eguerreroaraya}{\texttt{@eguerreroaraya}}}
+
+  \makefield{\faGraduationCap}{\href{https://scholar.enzoandree.cl}{\texttt{scholar.enzoandree.cl}}}
+  \makefield{\simpleicon{github}}{\href{https://github.com/enzoandree}{\texttt{enzoandree}}}
+  \makefield{\simpleicon{orcid}}{\href{https://orcid.org/0000-0003-2282-7722}{\texttt{0000-0003-2282-7722}}}
+
+  %% Next line
+  % You can use a tabular here if you want to line up the fields.
+}
+
+\rightheader{~}
+\begin{fullonly}
+\photo[r]{photo}
+\photoscale{0.13}
+\end{fullonly}
+
+\title{Curriculum Vitae}
+
+\begin{document}
+\makeheaders[c]
+
+\makerubric{employment}
+\makerubric{education}
+
+\input{publications}
+
+\makerubric{skills}
+\makerubric{misc}
+
+% \makerubric{referee}
+% \input{referee-full}
+
+\end{document}
