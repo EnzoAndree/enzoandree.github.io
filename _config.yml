@@ -56,7 +56,7 @@ google_analytics: "G-0FSBH746T9"
 # about_title: About Me
 about_profile_image: images/profile_ega.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Enzo, a Computational Biologist with a freshly earned Ph.D. from Andrés Bello University in Chile. My core focus is on the genomic epidemiology, evolution, adaptation, and phylogenetic relationship of *Clostridioides difficile*. I've been privileged to collaborate with international peers on research exploring evolution, bioinformatics, and data analysis, which has led to numerous scientific publications. In addition to my research experience, I also have a strong background in software development and data science.
+  Hello, I'm Enzo, a Computational Biologist with a Ph.D. from Andrés Bello University in Chile. My core focus is on genomic epidemiology, microbial evolution, antimicrobial resistance, and data-driven analysis of bacterial pathogens. I collaborate with international teams on research spanning bacterial genomics, bioinformatics, socioeconomic determinants of health, and computational epidemiology, including a recent Cell Genomics study forecasting antimicrobial resistance trends to 2050. In addition to my research experience, I have a strong background in software development and data science.
 content:
   - title: Softwares # Title for the section
     layout: list # Type of content section (list/text)
@@ -107,13 +107,13 @@ content:
   - title: Publications - Submitted # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
-        Alexandre Maciel-Guerra, Michelle Baker, Ruoqi Wang, Chengchang Luo, Yan Xu, **Enzo Guerrero-Araya**, Weihua Meng, Ge Wu, Komkiew Pinpimai, Nicola Senin, and Tania Dottorini. “Genomic traits and social determinants of health drive bacterial antimicrobial resistance: current trends and projections to 2050”. Submitted (2025). **Enzo Guerrero-Araya** led acquisition and analysis of 45,645 bacterial genomes, identified ARGs, and annotated their genomic context.
-
         **Enzo Guerrero-Araya**, Francisca Cid-Rojas, Marina Muñoz, César Rodríguez, and Daniel Paredes-Sabja. “Identification of Novel Cryptic and Classical Clades in *C. difficile*”. Submitted (2026). **Enzo Guerrero-Araya** led the analysis of 25,145 *C. difficile* genomes plus 21 new isolates, integrating MLST, ANI, and recombination-corrected core-genome phylogenies to identify C6/C7, C-VI/C-VII, and the C-IIIa/C-IIIb split.
 
   - title: Publications - Published # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
+        Michelle Baker, Alexandre Maciel-Guerra, Ruoqi Wang, Chengchang Luo, Yan Xu, **Enzo Guerrero-Araya**, Weihua Meng, Ge Wu, Komkiew Pinpimai, Peter Anthony Oyom, Nicola Senin, and Tania Dottorini. “[Genomic and socioeconomic drivers of antimicrobial resistance forecast to 2050](https://doi.org/10.1016/j.xgen.2026.101273)”. Cell Genomics 6, Article 101273 (2026). **Enzo Guerrero-Araya** led acquisition and analysis of bacterial genomes, identified ARGs, and annotated their genomic context.
+
         Francisca Cid-Rojas, **Enzo Guerrero-Araya**, Christian Brito-Silva, Marjorie Pizarro-Guajardo, César Rodríguez-Sánchez, and Daniel Paredes-Sabja. “Phylogenomic analysis of the collagen-like BclA proteins in *C. difficile*”. Applied and Environmental Microbiology (2025). **Enzo Guerrero-Araya** led phylogenomic analysis across 25,000 *C. difficile* genomes and contributed to AlphaFold3 structural modeling.
 
         **Enzo Guerrero-Araya**, Cesar Ravello, Mario Rosemblatt, Tomas Perez-Acle. “Socioeconomic status correlates with COVID-19 vaccination coverage among primary and secondary students in the most populated city of Chile”. Scientific Reports (2025).
